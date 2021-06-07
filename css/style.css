@@ -1165,8 +1165,8 @@ h1, h2, h3, h4, h5,
   padding-bottom: 2rem; }
 
 .custom-owl-carousel .slide-one-item-alt {
-  border-top-left-radius: 200px;
-  border-bottom-right-radius: 200px;
+  border-top-left-radius: 40%;
+  border-bottom-right-radius: 40%;
   overflow: hidden;
   -webkit-box-shadow: 0 30px 100px -20px rgba(0, 0, 0, 0.4);
   box-shadow: 0 30px 100px -20px rgba(0, 0, 0, 0.4); }
